@@ -1,4 +1,4 @@
-# React
+# 🔍 DeepTrace – AI-Based Human OSINT & Threat Profiler
 
 A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
 
@@ -13,6 +13,8 @@ A modern React-based project utilizing the latest frontend technologies and tool
 - **Form Management** - React Hook Form for efficient form handling
 - **Animation** - Framer Motion for smooth UI animations
 - **Testing** - Jest and React Testing Library setup
+
+
 
 ## 📋 Prerequisites
 
@@ -100,8 +102,9 @@ npm run build
 
 ## 🙏 Acknowledgments
 
-- Built with [Rocket.new](https://rocket.new)
-- Powered by React and Vite
-- Styled with Tailwind CSS
+- Developed with passion by **Vishal Kumar Sahu** (Team Lead – X Coders)  
+- Project designed and built during **AlgoVerse Hackathon 2025**
+- Powered by React, Supabase, Python, and HuggingFace Transformers  
+- UI styled with Tailwind CSS and deployed with care
 
-Built with ❤️ on Rocket.new
+
